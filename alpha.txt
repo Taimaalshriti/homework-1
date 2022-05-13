@@ -1,0 +1,11 @@
+1th char in alphapet is:a
+2th char in alphapet is:b
+3rd char in alphapet is:c
+4th char in alphapet is:d
+5th char in alphapet is:e
+6th char in alphapet is:f
+7th char in alphapet is:g
+8th char in alphapet is:h
+9th char in alphapet is:i
+10th char in alphapet is:j
+11th char in alphapet is:k
